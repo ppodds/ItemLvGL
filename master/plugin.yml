@@ -1,0 +1,9 @@
+﻿name: ItemLvGL
+main: ppodds.rpg.itemlvgl.ItemLvGL
+version: 1.0.0
+commands:
+  ILG:
+    description: 總指令
+permissions:
+  ILG.admin.ALL:
+    default: OP
